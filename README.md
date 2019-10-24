@@ -1,6 +1,8 @@
 # Parcial
 para instalar:
 npm install
+
+
 para ejecutar:
 npm start
 
